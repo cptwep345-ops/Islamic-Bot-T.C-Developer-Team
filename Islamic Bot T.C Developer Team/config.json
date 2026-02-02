@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "developerId": "",
+  "duaaChannelId": "",
+  "voiceChannelId": "",
+  "quizChannel": "",
+  "halt3lmChannelId": "",
+  "tasbihEmoji": "<:880705dustybluemoon:1465877481587212340>",
+  "updateVoiceChannelName": false,
+  "halt3lmEnabled": true
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "question": { "ar": "كم عدد الصلوات المفروضة في اليوم؟", "en": "How many obligatory prayers are there per day?" },
+    "correct": { "ar": "خمس صلوات", "en": "Five prayers" },
+    "wrong": [
+      { "ar": "ثلاث صلوات", "en": "Three prayers" },
+      { "ar": "أربع صلوات", "en": "Four prayers" },
+      { "ar": "ست صلوات", "en": "Six prayers" }
+    ]
+  },
+  {
+    "id": 2,
+    "question": { "ar": "ما هي أطول سورة في القرآن الكريم؟", "en": "What is the longest Surah in the Holy Quran?" },
+    "correct": { "ar": "سورة البقرة", "en": "Surah Al-Baqarah" },
+    "wrong": [
+      { "ar": "سورة آل عمران", "en": "Surah Ali 'Imran" },
+      { "ar": "سورة النساء", "en": "Surah An-Nisa" },
+      { "ar": "سورة المائدة", "en": "Surah Al-Ma'idah" }
+    ]
+  },
+  {
+    "id": 3,
+    "question": { "ar": "من هو النبي الذي لُقب بكليم الله؟", "en": "Which prophet was titled 'The One who spoke to Allah'?" },
+    "correct": { "ar": "موسى عليه السلام", "en": "Moses (PBUH)" },
+    "wrong": [
+      { "ar": "عيسى عليه السلام", "en": "Jesus (PBUH)" },
+      { "ar": "إبراهيم عليه السلام", "en": "Abraham (PBUH)" },
+      { "ar": "نوح عليه السلام", "en": "Noah (PBUH)" }
+    ]
+  },
+  {
+    "id": 4,
+    "question": { "ar": "ما هي السورة التي تسمى 'عروس القرآن'؟", "en": "Which Surah is called the 'Bride of the Quran'?" },
+    "correct": { "ar": "سورة الرحمن", "en": "Surah Ar-Rahman" },
+    "wrong": [
+      { "ar": "سورة يس", "en": "Surah Ya-Sin" },
+      { "ar": "سورة الملك", "en": "Surah Al-Mulk" },
+      { "ar": "سورة الواقعة", "en": "Surah Al-Waqi'ah" }
+    ]
+  },
+  {
+    "id": 5,
+    "question": { "ar": "كم عدد أركان الإسلام؟", "en": "How many pillars of Islam are there?" },
+    "correct": { "ar": "خمسة أركان", "en": "Five pillars" },
+    "wrong": [
+      { "ar": "ستة أركان", "en": "Six pillars" },
+      { "ar": "أربعة أركان", "en": "Four pillars" },
+      { "ar": "سبعة أركان", "en": "Seven pillars" }
+    ]
+  },
+  {
+    "id": 6,
+    "question": { "ar": "من هو أول الخلفاء الراشدين؟", "en": "Who was the first of the Rightly Guided Caliphs?" },
+    "correct": { "ar": "أبو بكر الصديق", "en": "Abu Bakr Al-Siddiq" },
+    "wrong": [
+      { "ar": "عمر بن الخطاب", "en": "Umar ibn Al-Khattab" },
+      { "ar": "عثمان بن عفان", "en": "Uthman ibn Affan" },
+      { "ar": "علي بن أبي طالب", "en": "Ali ibn Abi Talib" }
+    ]
+  },
+  {
+    "id": 7,
+    "question": { "ar": "ما هو الشهر الذي أنزل فيه القرآن؟", "en": "In which month was the Quran revealed?" },
+    "correct": { "ar": "شهر رمضان", "en": "Ramadan" },
+    "wrong": [
+      { "ar": "شهر شعبان", "en": "Shaban" },
+      { "ar": "شهر رجب", "en": "Rajab" },
+      { "ar": "شهر محرم", "en": "Muharram" }
+    ]
+  },
+  {
+    "id": 8,
+    "question": { "ar": "كم عدد أجزاء القرآن الكريم؟", "en": "How many parts (Juz) are in the Holy Quran?" },
+    "correct": { "ar": "30 جزءاً", "en": "30 parts" },
+    "wrong": [
+      { "ar": "25 جزءاً", "en": "25 parts" },
+      { "ar": "60 جزءاً", "en": "60 parts" },
+      { "ar": "114 جزءاً", "en": "114 parts" }
+    ]
+  },
+  {
+    "id": 9,
+    "question": { "ar": "من هو النبي الذي ابتلعه الحوت؟", "en": "Which prophet was swallowed by a whale?" },
+    "correct": { "ar": "يونس عليه السلام", "en": "Yunus (PBUH)" },
+    "wrong": [
+      { "ar": "يوسف عليه السلام", "en": "Yusuf (PBUH)" },
+      { "ar": "أيوب عليه السلام", "en": "Ayyub (PBUH)" },
+      { "ar": "داود عليه السلام", "en": "Dawud (PBUH)" }
+    ]
+  },
+  {
+    "id": 10,
+    "question": { "ar": "ما هي قبلة المسلمين الأولى؟", "en": "What was the first Qibla for Muslims?" },
+    "correct": { "ar": "المسجد الأقصى", "en": "Al-Aqsa Mosque" },
+    "wrong": [
+      { "ar": "المسجد الحرام", "en": "Masjid al-Haram" },
+      { "ar": "المسجد النبوي", "en": "Al-Masjid an-Nabawi" },
+      { "ar": "مسجد قباء", "en": "Quba Mosque" }
+    ]
+  },
+  {
+    "id": 11,
+    "question": { "ar": "من هو خادم النبي محمد ﷺ؟", "en": "Who was the servant of Prophet Muhammad (PBUH)?" },
+    "correct": { "ar": "أنس بن مالك", "en": "Anas ibn Malik" },
+    "wrong": [
+      { "ar": "بلال بن رباح", "en": "Bilal ibn Rabah" },
+      { "ar": "زيد بن حارثة", "en": "Zaid ibn Harithah" },
+      { "ar": "عبد الله بن مسعود", "en": "Abdullah ibn Masud" }
+    ]
+  },
+  {
+    "id": 12,
+    "question": { "ar": "ما هي أقصر سورة في القرآن الكريم؟", "en": "What is the shortest Surah in the Holy Quran?" },
+    "correct": { "ar": "سورة الكوثر", "en": "Surah Al-Kawthar" },
+    "wrong": [
+      { "ar": "سورة الإخلاص", "en": "Surah Al-Ikhlas" },
+      { "ar": "سورة العصر", "en": "Surah Al-Asr" },
+      { "ar": "سورة الناس", "en": "Surah An-Nas" }
+    ]
+  },
+  {
+    "id": 13,
+    "question": { "ar": "كم عدد أركان الإيمان؟", "en": "How many pillars of Faith (Iman) are there?" },
+    "correct": { "ar": "ستة أركان", "en": "Six pillars" },
+    "wrong": [
+      { "ar": "خمسة أركان", "en": "Five pillars" },
+      { "ar": "سبعة أركان", "en": "Seven pillars" },
+      { "ar": "ثمانية أركان", "en": "Eight pillars" }
+    ]
+  },
+  {
+    "id": 14,
+    "question": { "ar": "من هو النبي الذي بنى الكعبة مع ابنه؟", "en": "Which prophet built the Kaaba with his son?" },
+    "correct": { "ar": "إبراهيم عليه السلام", "en": "Abraham (PBUH)" },
+    "wrong": [
+      { "ar": "آدم عليه السلام", "en": "Adam (PBUH)" },
+      { "ar": "إسماعيل عليه السلام", "en": "Ishmael (PBUH)" },
+      { "ar": "سليمان عليه السلام", "en": "Solomon (PBUH)" }
+    ]
+  },
+  {
+    "id": 15,
+    "question": { "ar": "ما هي السورة التي لا تبدأ بالبسملة؟", "en": "Which Surah does not start with Basmala?" },
+    "correct": { "ar": "سورة التوبة", "en": "Surah At-Tawbah" },
+    "wrong": [
+      { "ar": "سورة النمل", "en": "Surah An-Naml" },
+      { "ar": "سورة هود", "en": "Surah Hud" },
+      { "ar": "سورة الأنفال", "en": "Surah Al-Anfal" }
+    ]
+  }
+]

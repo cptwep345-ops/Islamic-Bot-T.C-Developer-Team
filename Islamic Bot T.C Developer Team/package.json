@@ -1,0 +1,23 @@
+{
+  "name": "thalandcodes_bigproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@napi-rs/canvas": "^0.1.89",
+    "@snazzah/davey": "^0.1.9",
+    "arabic-reshaper": "^1.1.0",
+    "axios": "^1.13.3",
+    "bidi-js": "^1.0.3",
+    "canvas": "^3.2.1",
+    "discord.js": "^14.25.1",
+    "libsodium-wrappers": "^0.8.2",
+    "node-cron": "^4.2.1"
+  }
+}
